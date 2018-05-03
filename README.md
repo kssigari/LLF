@@ -1,4 +1,4 @@
-# LLF
+# Penalized PET reconstruction using deep learning prior and local linear fitting
 
 Hello,
 
