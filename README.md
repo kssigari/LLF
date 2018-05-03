@@ -13,7 +13,7 @@ Motivated by the great potential of deep learning in medical imaging, we propose
 
 Details:
 
-0. Linux/Windows Compatible (Sorry Mac users: more difficult to link openmp)
+0. Linux/Windows Compatible (Sorry for Mac users: difficult to link openmp)
 
 1. We provide pre-compiled Simense-type projector and backprojector,
 Parallel computing based on OpenMP is used. "libomp" should be linked.
