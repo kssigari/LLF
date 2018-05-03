@@ -2,10 +2,12 @@
 
 Hello,
 
-I am Kyungsang Kim. (kssigari@gmail.com, kkim24@mgh.harvard.edu) 
+I am Kyungsang Kim. (kssigari(at)gmail.com, kkim24(at)mgh.harvard.edu) 
 
 The code was used for the following paper: 
 Kyungsang Kim et al. "Penalized PET reconstruction using deep learning prior and local linear fitting", IEEE Transactions on Medical Imaging.
+
+Abstract
 
 Motivated by the great potential of deep learning in medical imaging, we propose an iterative positron emission tomography (PET) reconstruction framework using a deep learning-based prior. We utilized the denoising convolutional neural network (DnCNN) method and trained the network using full-dose images as the ground truth and low dose images reconstructed from downsampled data by Poisson thinning as input. Since most published deep networks are trained at a predetermined noise level, the noise level disparity of training and testing data is a major problem for their applicability as a generalized prior. In particular, the noise level significantly changes in each iteration, which can potentially degrade the overall performance of iterative reconstruction. Due to insufficient existing studies, we conducted simulations and evaluated the degradation of performance at various noise conditions. Our findings indicated that DnCNN produces additional bias induced by the disparity of noise levels. To address this issue, we propose a local linear fitting (LLF) function incorporated with the DnCNN prior to improve the image quality by preventing unwanted bias. We demonstrate that the resultant method is robust against noise level disparities despite the network being trained at a predetermined noise level. By means of bias and standard deviation studies via both simulations and clinical experiments, we show that the proposed method outperforms conventional methods based on total variation (TV) and non-local means (NLM) penalties. We thereby confirm that the proposed method improves the reconstruction result both quantitatively and qualitatively.
 
