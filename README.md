@@ -37,6 +37,9 @@ We provide one clinical data for test.
 The scanner is the high-resolution research tomograph (HRRT) dedicated for brain studies, Siemens.
 We provide full data (4800 sec), and downsampled data for 4x, 6x, 8x, 10x. 
 
+Please download the "Data" folder:
+https://www.dropbox.com/sh/33kqnvbbclhvscr/AACAj0_qmCZby_yjKZjuCdLia?dl=0
+
 
 3. Demo examples
 
