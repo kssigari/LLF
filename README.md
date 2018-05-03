@@ -17,10 +17,10 @@ Details:
 Parallel computing based on OpenMP is used. "libomp" should be linked.
 First you can try Demo_OPOSEM.m, if you see errors please check this:
 
-    1.1) Linux
+    1.1) Linux:
     https://www.mathworks.com/matlabcentral/answers/125117-openmp-mex-files-static-tls-problem
 
-    1.2) Windows
+    1.2) Windows:
     I have not seen errors yet, but if you see errors, please let me know.
 
     +extra) The Geometric parameters are in ParamSetting.m
@@ -66,9 +66,13 @@ please open "bin/DnCNN_prior.m" and "bin/DnCNN_prior_grad.m"
 and then change this option:
 
 //////////////////////
+
 caffe.set_mode_gpu();
+
 gpu_id = 0;
+
 caffe.set_device(gpu_id);
+
 //////////////////////
 
 if you use CPU or another GPU number, change this:
