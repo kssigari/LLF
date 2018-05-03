@@ -41,7 +41,7 @@ We provide full data (4800 sec), and downsampled data for 4x, 6x, 8x, 10x.
     4.1 OPOSEM (ordinary poisson ordered subsets expectation maximization)
     4.2 OS-SQS+Non local means penalty (ordered subsets separable quadratic surrogates)
         Non-local means implementation is clearly explained in this paper:
-        "Low?dose CT reconstruction using spatially encoded nonlocal penalty", Medical Physics.
+        "Low-dose CT reconstruction using spatially encoded nonlocal penalty", Medical Physics.
 
     4.3 Proposed method: OS-SQS + DnCNN + local linear fitting (LLF)
 
