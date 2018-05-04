@@ -17,7 +17,7 @@ Details:
 
 0. Linux/Windows Compatible (Sorry for Mac users: difficult to link openmp)
 
-1. We provide pre-compiled Simens-type projector and backprojector,
+1. We provide pre-compiled Siemens-type projector and backprojector,
 Parallel computing based on OpenMP is used. "libomp" should be linked.
 First you can try Demo_OPOSEM.m, if you see errors please check this:
 
