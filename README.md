@@ -5,7 +5,7 @@ Hello,
 I am Kyungsang Kim. (kssigari(at)gmail.com, kkim24(at)mgh.harvard.edu) 
 
 The code was used for the following paper: 
-Kyungsang Kim et al. "Penalized PET reconstruction using deep learning prior and local linear fitting", IEEE Transactions on Medical Imaging.
+Kyungsang Kim et al. "Penalized PET reconstruction using deep learning prior and local linear fitting", IEEE Transactions on Medical Imaging. (https://ieeexplore.ieee.org/document/8354909/)
 
 Please read below carefully because data files are provided with link.
 
